@@ -10,9 +10,11 @@
 Es falso que Python es lento para Backend.
 
 *Django*: Frontend y Backend con Python.
+
 Flask: Para Backend.
 
 FastAPI supera en velocidad y sintaxi a Flask y Django.
+
 FastAPI es un framework que utilizan Netflix y Uber: esto demuestra servicios rapidos y preparados para producción.
 
 ### Servidor
